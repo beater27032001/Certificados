@@ -1,8 +1,8 @@
-<h1>Certificações</h1>
+<h1>Certificados</h1>
 
-<p>Apresento todas as minhas certificações reunidas em um local (github) para registro pessoal e também para consultas públicas.</p>
+<p>Apresento todos os meus certificados reunidos em um local (github) para registro pessoal e também para consultas públicas.</p>
 
-<p>Abaixo segue as seguintes empresas/escolas com as minhas certificações registradas:</p>
+<p>Abaixo segue as seguintes empresas/escolas com os meus certificados resgistrados:</p>
 
 <hr>
 

@@ -11,3 +11,4 @@
 <p>🔸 Instituto Federal do Rio Grande do Sul (IFRS)</p>
 <p>🔹 Udemy</p>
 <p>🔸 Universidade Federal Rural de Pernambuco (UFRPE)</p>
+<p>🔹 Alura</p>
